@@ -1,1 +1,29 @@
+#BGP
+community
+route-map
+route-reflectors
+
+#OSPF
+Areas
+LSAs
+
+#LCAP
+hashing
+
+
+#STP
+basics
+
+#PC-to-PC
+
+#Exsi
+2 VM outside switch, port group
+
+
+#NAT
+
+
+##Python
+Dict
+List how to pop
 
